@@ -1,0 +1,9 @@
+.galeria{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.obraz{
+  margin: 5px;
+  border-radius: 10px;
+}

@@ -1,0 +1,36 @@
+.title:hover{
+    color: red;
+}
+.h2{
+    color: aqua;
+    text-align: center;
+}
+.p{
+    font-family: "Comic Sans MS";
+    text-align: center;
+    color: brown;
+}
+.button{
+    display: block;
+    margin: 0 auto;
+    font-family: "Times New Roman";
+}
+.primary{
+    background-color: blue;
+    color: aliceblue;
+    display: block;
+    margin: 0 auto;
+}
+.secondary{
+    background-color: aquamarine;
+    display: block;
+    margin: 0 auto;
+}
+.boxbox{
+    display: block;
+    margin: 0 auto;
+}
+.kontener{
+    background-color: black;
+    box-shadow: aliceblue 5px 5px 5px 5px;
+}
